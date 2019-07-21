@@ -16,4 +16,4 @@ Un sac a une taille définie, on souhaite y faire rentrer des objets de diverses
 -------------------------------------------------------------------------------------------------------------------
 
 
-![Exemple de résultat](https://imgur.com/cfM8GhP)
+![Exemple de résultat](https://raw.githubusercontent.com/ermineaweb/algo-genetic-fr/master/screen.png)
