@@ -1,4 +1,4 @@
-# algo-genetic-fr
+# genetic-procedural-python
 
 Essai de création d'un algorithme génétique en Python.  
 ## Problème posé :
