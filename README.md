@@ -11,5 +11,9 @@ Un sac a une taille définie, on souhaite y faire rentrer des objets de diverses
 * On sélectionne les individus qui s'approchent le plus de la valeur du sac, avec une précision donnée.  
 * On effectue des croisements sur ces individus.  
 * On effectue des mutations aléatoires sur ces individus.  
-* Dès qu'un individu valide la cible, ou que les individus ont tous été détruits par la sélection, on arrête le programme.
+* Dès qu'un individu valide la cible, ou que les individus ont tous été détruits par la sélection, on arrête le programme.  
 
+-------------------------------------------------------------------------------------------------------------------
+
+
+![Exemple de résultat](https://imgur.com/cfM8GhP)
